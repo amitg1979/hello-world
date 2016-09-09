@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Hi Humans,
+Amit here, I like ASP.NET MVC, Angular Js, Selenium.
